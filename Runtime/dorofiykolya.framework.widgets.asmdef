@@ -1,0 +1,20 @@
+{
+    "name": "dorofiykolya.framework.widgets",
+    "rootNamespace": "Framework.Runtime.Core",
+    "references": [
+        "GUID:904235d1fc334f8aabb1b345ce52c38c",
+        "GUID:231b8f671be29c14da379b9ad9259d7f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6616ed58e97323744a569d2eb4bd808c",
+        "GUID:93fc7c448b7ead54ab0d653dd98a04c8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
