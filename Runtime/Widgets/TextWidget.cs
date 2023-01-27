@@ -50,7 +50,8 @@ namespace Framework.Runtime.Core.Widgets
                                     values[i] = keys[i];
                                 }
                             }
-                            value = string.Format(Model.Format, values);
+                            value = localization.Get((string)Model.Format);
+                            value = string.Format(value, values);
                         }
                         else
                         {
